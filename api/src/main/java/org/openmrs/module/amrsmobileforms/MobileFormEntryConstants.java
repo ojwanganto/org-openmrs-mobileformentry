@@ -83,6 +83,8 @@ public class MobileFormEntryConstants {
     /** The text/xml http content type. */
     public final static String HTTP_HEADER_CONTENT_TYPE_XML = "text/xml; charset=utf-8";
 
+    //points to the form node
+    public static final String FORM_PREFIX = "/form";
     /** The metadata nodes prefix. */
     public static final String METADATA_PREFIX = "/form/meta";
 
